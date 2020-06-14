@@ -3,7 +3,7 @@ My keyboard designs for myself. Free to use it in your project.
 
 # Splite Keyboard version 2
 
-!(Splite Keyboard v2 designed layout)[Splite-Keyboard-v2/Keyboar-layout.png]
+![Splite Keyboard v2 designed layout](Splite-Keyboard-v2/Keyboar-layout.png)
 
 This is my current design.
 
