@@ -1,0 +1,1392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>C:\Users\WhaleMo\OneDrive\2020文档\Keyboard\Splite-Keyboard-v1\keyboard-layout.sch</source>
+    <date>2020/5/23 2:21:39</date>
+    <tool>Eeschema (5.1.5)-3</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>keyboard-layout.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="K_ESC1">
+      <value>KEYSW</value>
+      <footprint>MX_ALPS_Hybrid:MX-1U-Reversible</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F12B8A0</tstamp>
+    </comp>
+    <comp ref="D_ESC1">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>18AA42C7</tstamp>
+    </comp>
+    <comp ref="K_1">
+      <value>KEYSW</value>
+      <footprint>MX_ALPS_Hybrid:MX-1U-Reversible</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F12B8AE</tstamp>
+    </comp>
+    <comp ref="D_1">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>18AA99BC</tstamp>
+    </comp>
+    <comp ref="K_2">
+      <value>KEYSW</value>
+      <footprint>MX_ALPS_Hybrid:MX-1U-Reversible</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>18AAA4AD</tstamp>
+    </comp>
+    <comp ref="D_2">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F12B8B2</tstamp>
+    </comp>
+    <comp ref="K_3">
+      <value>KEYSW</value>
+      <footprint>MX_ALPS_Hybrid:MX-1U-Reversible</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>18AAA072</tstamp>
+    </comp>
+    <comp ref="D_3">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F12B8B0</tstamp>
+    </comp>
+    <comp ref="K_4">
+      <value>KEYSW</value>
+      <footprint>MX_ALPS_Hybrid:MX-1U-Reversible</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>18AAA253</tstamp>
+    </comp>
+    <comp ref="D_4">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F12B8B1</tstamp>
+    </comp>
+    <comp ref="K_5">
+      <value>KEYSW</value>
+      <footprint>MX_ALPS_Hybrid:MX-1U-Reversible</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>18AA7E56</tstamp>
+    </comp>
+    <comp ref="D_5">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F12B8A9</tstamp>
+    </comp>
+    <comp ref="K_6">
+      <value>KEYSW</value>
+      <footprint>MX_ALPS_Hybrid:MX-1U-Reversible</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>18AA5EB4</tstamp>
+    </comp>
+    <comp ref="D_6">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F12B8A8</tstamp>
+    </comp>
+    <comp ref="K_BS1">
+      <value>KEYSW</value>
+      <footprint>MX_ALPS_Hybrid:MX-1.75U-Reversible</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>18AA034A</tstamp>
+    </comp>
+    <comp ref="D_BS1">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F12B895</tstamp>
+    </comp>
+    <comp ref="K_TAB1">
+      <value>KEYSW</value>
+      <footprint>MX_ALPS_Hybrid:MX-1.25U-Reversible</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F12B8B8</tstamp>
+    </comp>
+    <comp ref="D_TAB1">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>18AACA33</tstamp>
+    </comp>
+    <comp ref="K_Q1">
+      <value>KEYSW</value>
+      <footprint>MX_ALPS_Hybrid:MX-1U-Reversible</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>18AA8309</tstamp>
+    </comp>
+    <comp ref="D_Q1">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F12B8AA</tstamp>
+    </comp>
+    <comp ref="K_W1">
+      <value>KEYSW</value>
+      <footprint>MX_ALPS_Hybrid:MX-1U-Reversible</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>18AA970D</tstamp>
+    </comp>
+    <comp ref="D_W1">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F12B8AD</tstamp>
+    </comp>
+    <comp ref="K_E1">
+      <value>KEYSW</value>
+      <footprint>MX_ALPS_Hybrid:MX-1U-Reversible</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F12B8B4</tstamp>
+    </comp>
+    <comp ref="D_E1">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>18AAACC4</tstamp>
+    </comp>
+    <comp ref="K_R1">
+      <value>KEYSW</value>
+      <footprint>MX_ALPS_Hybrid:MX-1U-Reversible</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F12B8A2</tstamp>
+    </comp>
+    <comp ref="D_R1">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>18AA465E</tstamp>
+    </comp>
+    <comp ref="K_T1">
+      <value>KEYSW</value>
+      <footprint>MX_ALPS_Hybrid:MX-1U-Reversible</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F12B89A</tstamp>
+    </comp>
+    <comp ref="D_T1">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>18AA1CE8</tstamp>
+    </comp>
+    <comp ref="K_7">
+      <value>KEYSW</value>
+      <footprint>MX_ALPS_Hybrid:MX-1U-Reversible</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>18AAEF01</tstamp>
+    </comp>
+    <comp ref="D_7">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F12B8BC</tstamp>
+    </comp>
+    <comp ref="K_DEL1">
+      <value>KEYSW</value>
+      <footprint>MX_ALPS_Hybrid:MX-1.5U-Reversible</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F12B894</tstamp>
+    </comp>
+    <comp ref="D_DEL1">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>18AA00FD</tstamp>
+    </comp>
+    <comp ref="K_CONTROL1">
+      <value>KEYSW</value>
+      <footprint>MX_ALPS_Hybrid:MX-1.5U-Reversible</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F12B8A4</tstamp>
+    </comp>
+    <comp ref="D_CONTROL1">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>18AA4EB6</tstamp>
+    </comp>
+    <comp ref="K_A1">
+      <value>KEYSW</value>
+      <footprint>MX_ALPS_Hybrid:MX-1U-Reversible</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>18AAF037</tstamp>
+    </comp>
+    <comp ref="D_A1">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F12B8BE</tstamp>
+    </comp>
+    <comp ref="K_S1">
+      <value>KEYSW</value>
+      <footprint>MX_ALPS_Hybrid:MX-1U-Reversible</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>18AA1DF3</tstamp>
+    </comp>
+    <comp ref="D_S1">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F12B89B</tstamp>
+    </comp>
+    <comp ref="K_D1">
+      <value>KEYSW</value>
+      <footprint>MX_ALPS_Hybrid:MX-1U-Reversible</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>18AA3138</tstamp>
+    </comp>
+    <comp ref="D_D1">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F12B89D</tstamp>
+    </comp>
+    <comp ref="K_F0">
+      <value>KEYSW</value>
+      <footprint>MX_ALPS_Hybrid:MX-1U-Reversible</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F12B8B6</tstamp>
+    </comp>
+    <comp ref="D_F5">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>18AAB84F</tstamp>
+    </comp>
+    <comp ref="K_G1">
+      <value>KEYSW</value>
+      <footprint>MX_ALPS_Hybrid:MX-1U-Reversible</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>18AAAC41</tstamp>
+    </comp>
+    <comp ref="D_G1">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F12B8B3</tstamp>
+    </comp>
+    <comp ref="K_8">
+      <value>KEYSW</value>
+      <footprint>MX_ALPS_Hybrid:MX-1U-Reversible</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F12B8AB</tstamp>
+    </comp>
+    <comp ref="D_8">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>18AA8A91</tstamp>
+    </comp>
+    <comp ref="K_ENTER1">
+      <value>KEYSW</value>
+      <footprint>MX_ALPS_Hybrid:MX-1.25U-Reversible</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>18AA45F7</tstamp>
+    </comp>
+    <comp ref="D_ENTER1">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F12B8A1</tstamp>
+    </comp>
+    <comp ref="K_SHIFT1">
+      <value>KEYSW</value>
+      <footprint>MX_ALPS_Hybrid:MX-1.75U-Reversible</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>18AA1767</tstamp>
+    </comp>
+    <comp ref="D_SHIFT1">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F12B898</tstamp>
+    </comp>
+    <comp ref="K_Z1">
+      <value>KEYSW</value>
+      <footprint>MX_ALPS_Hybrid:MX-1U-Reversible</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F12B8BF</tstamp>
+    </comp>
+    <comp ref="D_Z1">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>18AAFEC4</tstamp>
+    </comp>
+    <comp ref="K_X1">
+      <value>KEYSW</value>
+      <footprint>MX_ALPS_Hybrid:MX-1U-Reversible</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>18AAC409</tstamp>
+    </comp>
+    <comp ref="D_X1">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F12B8B7</tstamp>
+    </comp>
+    <comp ref="K_C1">
+      <value>KEYSW</value>
+      <footprint>MX_ALPS_Hybrid:MX-1U-Reversible</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F12B8BD</tstamp>
+    </comp>
+    <comp ref="D_C1">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>18AAEFB1</tstamp>
+    </comp>
+    <comp ref="K_V1">
+      <value>KEYSW</value>
+      <footprint>MX_ALPS_Hybrid:MX-1U-Reversible</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>18AA4AE1</tstamp>
+    </comp>
+    <comp ref="D_V1">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F12B8A3</tstamp>
+    </comp>
+    <comp ref="K_B1">
+      <value>KEYSW</value>
+      <footprint>MX_ALPS_Hybrid:MX-1U-Reversible</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>18AA05C6</tstamp>
+    </comp>
+    <comp ref="D_B1">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F12B896</tstamp>
+    </comp>
+    <comp ref="K_9">
+      <value>KEYSW</value>
+      <footprint>MX_ALPS_Hybrid:MX-1U-Reversible</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>18AACCFC</tstamp>
+    </comp>
+    <comp ref="D_9">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F12B8B9</tstamp>
+    </comp>
+    <comp ref="K_FN1">
+      <value>KEYSW</value>
+      <footprint>MX_ALPS_Hybrid:MX-1U-Reversible</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>18AA1951</tstamp>
+    </comp>
+    <comp ref="D_FN1">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F12B899</tstamp>
+    </comp>
+    <comp ref="K_ALT1">
+      <value>KEYSW</value>
+      <footprint>MX_ALPS_Hybrid:MX-1U-Reversible</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>18AA50DF</tstamp>
+    </comp>
+    <comp ref="D_ALT1">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F12B8A5</tstamp>
+    </comp>
+    <comp ref="K_META1">
+      <value>KEYSW</value>
+      <footprint>MX_ALPS_Hybrid:MX-1U-Reversible</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>18AA94C9</tstamp>
+    </comp>
+    <comp ref="D_META1">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F12B8AC</tstamp>
+    </comp>
+    <comp ref="K_TF1">
+      <value>KEYSW</value>
+      <footprint>MX_ALPS_Hybrid:MX-1U-Reversible</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F12B8BB</tstamp>
+    </comp>
+    <comp ref="D_TF1">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>18AADA18</tstamp>
+    </comp>
+    <comp ref="K_QB1">
+      <value>KEYSW</value>
+      <footprint>MX_ALPS_Hybrid:MX-1U-Reversible</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>18AA3ABB</tstamp>
+    </comp>
+    <comp ref="D_QB1">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F12B89F</tstamp>
+    </comp>
+    <comp ref="K_MENU1">
+      <value>KEYSW</value>
+      <footprint>MX_ALPS_Hybrid:MX-1U-Reversible</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F12B8A7</tstamp>
+    </comp>
+    <comp ref="D_MENU1">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>18AA5DEE</tstamp>
+    </comp>
+    <comp ref="K_F1">
+      <value>KEYSW</value>
+      <footprint>MX_ALPS_Hybrid:MX-1U-Reversible</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F12B8A6</tstamp>
+    </comp>
+    <comp ref="D_F1">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>18AA5A88</tstamp>
+    </comp>
+    <comp ref="K_F2">
+      <value>KEYSW</value>
+      <footprint>MX_ALPS_Hybrid:MX-1U-Reversible</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F12B897</tstamp>
+    </comp>
+    <comp ref="D_F2">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>18AA14DC</tstamp>
+    </comp>
+    <comp ref="K_SPACE1">
+      <value>KEYSW</value>
+      <footprint>MX_ALPS_Hybrid:MX-2U-Reversible</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>18AA3931</tstamp>
+    </comp>
+    <comp ref="D_10">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F12B89E</tstamp>
+    </comp>
+    <comp ref="K_F3">
+      <value>KEYSW</value>
+      <footprint>MX_ALPS_Hybrid:MX-1U-Reversible</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>18AAB1BD</tstamp>
+    </comp>
+    <comp ref="D_F3">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F12B8B5</tstamp>
+    </comp>
+    <comp ref="K_F4">
+      <value>KEYSW</value>
+      <footprint>MX_ALPS_Hybrid:MX-1U-Reversible</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F12B89C</tstamp>
+    </comp>
+    <comp ref="D_F4">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>18AA2DF9</tstamp>
+    </comp>
+    <comp ref="K_F5">
+      <value>KEYSW</value>
+      <footprint>MX_ALPS_Hybrid:MX-1U-Reversible</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>18AACFB9</tstamp>
+    </comp>
+    <comp ref="D_F6">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F12B8BA</tstamp>
+    </comp>
+    <comp ref="K_F6">
+      <value>KEYSW</value>
+      <footprint>MX_ALPS_Hybrid:MX-1U-Reversible</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F12B8AF</tstamp>
+    </comp>
+    <comp ref="D_F7">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>18AA9B46</tstamp>
+    </comp>
+    <comp ref="D1">
+      <value>LED</value>
+      <footprint>keyboard_parts:LED_TH</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EC2C514</tstamp>
+    </comp>
+    <comp ref="D2">
+      <value>LED</value>
+      <footprint>keyboard_parts:LED_TH</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EC48C03</tstamp>
+    </comp>
+    <comp ref="D3">
+      <value>LED</value>
+      <footprint>keyboard_parts:LED_TH</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EC51134</tstamp>
+    </comp>
+    <comp ref="D4">
+      <value>LED</value>
+      <footprint>keyboard_parts:LED_TH</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EC5939E</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>R</value>
+      <footprint>AutoLoader:RESAD1080W45L340D185</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5ED590CA</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>R</value>
+      <footprint>AutoLoader:RESAD1080W45L340D185</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5ED59CC1</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>R</value>
+      <footprint>AutoLoader:RESAD1080W45L340D185</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5ED62CB4</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>R</value>
+      <footprint>AutoLoader:RESAD1080W45L340D185</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5ED7482D</tstamp>
+    </comp>
+    <comp ref="IC1">
+      <value>SPARKFUN_PRO_MICRO</value>
+      <footprint>SparkFun_Footprints:SPARKFUN_PRO_MICRO</footprint>
+      <fields>
+        <field name="字段4">0001</field>
+      </fields>
+      <libsource lib="SparkFun-Boards" part="SPARKFUN_PRO_MICRO" description="SparkFun Pro Micro  Atmega32U4 compatible footprint. &lt;b&gt;SparkFun Products:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;&lt;a href= https://www.sparkfun.com/products/12587 &gt;3.3V/8MHz&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href= https://www.sparkfun.com/products/12640 &gt;5V/16MHz&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EDD817E</tstamp>
+    </comp>
+    <comp ref="SW_RESET1">
+      <value>SW_PUSH</value>
+      <footprint>keyboard_parts:SW_TACT_TH_HORIZ_LOW</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EF5538E</tstamp>
+    </comp>
+    <comp ref="IC2">
+      <value>SN65LBC179P</value>
+      <footprint>DIP794W53P254L959H508Q8N</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/sn65lbc179.pdf</datasheet>
+      <fields>
+        <field name="Description">Line Transmitter/Receiver 1TR 1TX 1RX SN65LBC179P, Line Transceiver, ISO 8482 10Mbit/s Differential, 5 V, 8-Pin PDIP</field>
+        <field name="Height">5.08</field>
+        <field name="Manufacturer_Name">Texas Instruments</field>
+        <field name="Manufacturer_Part_Number">SN65LBC179P</field>
+        <field name="Mouser Part Number">595-SN65LBC179P</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=595-SN65LBC179P</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="SN65LBC179P" description="Line Transmitter/Receiver 1TR 1TX 1RX SN65LBC179P, Line Transceiver, ISO 8482 10Mbit/s Differential, 5 V, 8-Pin PDIP"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5ED1B1F6</tstamp>
+    </comp>
+    <comp ref="J1">
+      <value>RJ45</value>
+      <footprint>AutoLoader:955016889</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="RJ45" description="RJ connector, 8P8C (8 positions 8 connected)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5ED1D59E</tstamp>
+    </comp>
+    <comp ref="RT1">
+      <value>R120</value>
+      <footprint>AutoLoader:RESAD1080W45L340D185</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F186439</tstamp>
+    </comp>
+    <comp ref="J2">
+      <value>RJ45</value>
+      <footprint>AutoLoader:955016889</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="RJ45" description="RJ connector, 8P8C (8 positions 8 connected)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5ED0213C</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="8P8C">
+      <aliases>
+        <alias>RJ31</alias>
+        <alias>RJ32</alias>
+        <alias>RJ33</alias>
+        <alias>RJ34</alias>
+        <alias>RJ35</alias>
+        <alias>RJ41</alias>
+        <alias>RJ45</alias>
+        <alias>RJ49</alias>
+        <alias>RJ61</alias>
+      </aliases>
+      <description>RJ connector, 8P8C (8 positions 8 connected), RJ31/RJ32/RJ33/RJ34/RJ35/RJ41/RJ45/RJ49/RJ61</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>8P8C*</fp>
+        <fp>RJ31*</fp>
+        <fp>RJ32*</fp>
+        <fp>RJ33*</fp>
+        <fp>RJ34*</fp>
+        <fp>RJ35*</fp>
+        <fp>RJ41*</fp>
+        <fp>RJ45*</fp>
+        <fp>RJ49*</fp>
+        <fp>RJ61*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">8P8C</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+        <pin num="3" name="~" type="passive"/>
+        <pin num="4" name="~" type="passive"/>
+        <pin num="5" name="~" type="passive"/>
+        <pin num="6" name="~" type="passive"/>
+        <pin num="7" name="~" type="passive"/>
+        <pin num="8" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D">
+      <description>Diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys_Parts" part="SN65LBC179P">
+      <description>Line Transmitter/Receiver 1TR 1TX 1RX SN65LBC179P, Line Transceiver, ISO 8482 10Mbit/s Differential, 5 V, 8-Pin PDIP</description>
+      <docs>http://www.ti.com/lit/ds/symlink/sn65lbc179.pdf</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">SN65LBC179P</field>
+        <field name="Footprint">DIP794W53P254L959H508Q8N</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/sn65lbc179.pdf</field>
+        <field name="Description">Line Transmitter/Receiver 1TR 1TX 1RX SN65LBC179P, Line Transceiver, ISO 8482 10Mbit/s Differential, 5 V, 8-Pin PDIP</field>
+        <field name="Height">5.08</field>
+        <field name="Mouser Part Number">595-SN65LBC179P</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=595-SN65LBC179P</field>
+        <field name="Manufacturer_Name">Texas Instruments</field>
+        <field name="Manufacturer_Part_Number">SN65LBC179P</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VCC" type="power_in"/>
+        <pin num="2" name="R" type="output"/>
+        <pin num="3" name="D" type="input"/>
+        <pin num="4" name="GND" type="power_in"/>
+        <pin num="5" name="Y" type="output"/>
+        <pin num="6" name="Z" type="output"/>
+        <pin num="7" name="B" type="input"/>
+        <pin num="8" name="A" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="SparkFun-Boards" part="SPARKFUN_PRO_MICRO">
+      <description>SparkFun Pro Micro  Atmega32U4 compatible footprint. &lt;b&gt;SparkFun Products:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;&lt;a href= https://www.sparkfun.com/products/12587 &gt;3.3V/8MHz&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href= https://www.sparkfun.com/products/12640 &gt;5V/16MHz&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+      <footprints>
+        <fp>*SPARKFUN_PRO_MICRO*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">B</field>
+        <field name="Value">SPARKFUN_PRO_MICRO</field>
+        <field name="Footprint">SPARKFUN_PRO_MICRO</field>
+        <field name="字段4">XXX-00000</field>
+      </fields>
+      <pins>
+        <pin num="1" name="TXO" type="BiDi"/>
+        <pin num="2" name="RXI" type="BiDi"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="GND" type="power_in"/>
+        <pin num="5" name="2" type="BiDi"/>
+        <pin num="6" name="*3" type="BiDi"/>
+        <pin num="7" name="4" type="BiDi"/>
+        <pin num="8" name="*5" type="BiDi"/>
+        <pin num="9" name="*6" type="BiDi"/>
+        <pin num="10" name="7" type="BiDi"/>
+        <pin num="11" name="8" type="BiDi"/>
+        <pin num="12" name="*9" type="BiDi"/>
+        <pin num="13" name="*10" type="BiDi"/>
+        <pin num="14" name="11(MOSI)" type="BiDi"/>
+        <pin num="15" name="12(MISO)" type="BiDi"/>
+        <pin num="16" name="13(SCK)" type="BiDi"/>
+        <pin num="17" name="A0" type="BiDi"/>
+        <pin num="18" name="A1" type="BiDi"/>
+        <pin num="19" name="A2" type="BiDi"/>
+        <pin num="20" name="A3" type="BiDi"/>
+        <pin num="21" name="VCC" type="power_in"/>
+        <pin num="22" name="RESET" type="BiDi"/>
+        <pin num="23" name="GND" type="power_in"/>
+        <pin num="24" name="RAW" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="keyboard_parts" part="KEYSW">
+      <fields>
+        <field name="Reference">K?</field>
+        <field name="Value">KEYSW</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="keyboard_parts" part="SW_PUSH">
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_PUSH</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Connector.lib</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Device.lib</uri>
+    </library>
+    <library logical="SamacSys_Parts">
+      <uri>D:/KiCad/SamacSys_Parts.lib</uri>
+    </library>
+    <library logical="SparkFun-Boards">
+      <uri>D:/KiCad/SparkFun-KiCad-Libraries-master/Libraries/SparkFun-Boards.lib</uri>
+    </library>
+    <library logical="keyboard_parts">
+      <uri>C:\Users\WhaleMo\OneDrive\2020文档\Keyboard\Splite-Keyboard-v1/kicad_lib_tmk/keyboard_parts.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Net-(D2-Pad2)">
+      <node ref="R2" pin="2"/>
+      <node ref="D2" pin="2"/>
+    </net>
+    <net code="2" name="col4">
+      <node ref="K_F0" pin="1"/>
+      <node ref="K_V1" pin="1"/>
+      <node ref="K_4" pin="1"/>
+      <node ref="K_R1" pin="1"/>
+      <node ref="K_F5" pin="1"/>
+      <node ref="IC1" pin="20"/>
+      <node ref="K_QB1" pin="1"/>
+    </net>
+    <net code="3" name="Net-(D4-Pad2)">
+      <node ref="D4" pin="2"/>
+      <node ref="R4" pin="2"/>
+    </net>
+    <net code="4" name="Net-(D3-Pad2)">
+      <node ref="D3" pin="2"/>
+      <node ref="R3" pin="2"/>
+    </net>
+    <net code="5" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2"/>
+      <node ref="R1" pin="2"/>
+    </net>
+    <net code="6" name="Net-(D_MENU1-Pad2)">
+      <node ref="K_MENU1" pin="2"/>
+      <node ref="D_MENU1" pin="2"/>
+    </net>
+    <net code="7" name="Net-(D_F1-Pad2)">
+      <node ref="K_F1" pin="2"/>
+      <node ref="D_F1" pin="2"/>
+    </net>
+    <net code="8" name="Net-(D_F2-Pad2)">
+      <node ref="K_F2" pin="2"/>
+      <node ref="D_F2" pin="2"/>
+    </net>
+    <net code="9" name="Net-(D_META1-Pad2)">
+      <node ref="K_META1" pin="2"/>
+      <node ref="D_META1" pin="2"/>
+    </net>
+    <net code="10" name="Net-(D_TF1-Pad2)">
+      <node ref="K_TF1" pin="2"/>
+      <node ref="D_TF1" pin="2"/>
+    </net>
+    <net code="11" name="Net-(D_QB1-Pad2)">
+      <node ref="D_QB1" pin="2"/>
+      <node ref="K_QB1" pin="2"/>
+    </net>
+    <net code="12" name="Net-(D_F7-Pad2)">
+      <node ref="K_F6" pin="2"/>
+      <node ref="D_F7" pin="2"/>
+    </net>
+    <net code="13" name="Net-(D_F4-Pad2)">
+      <node ref="D_F4" pin="2"/>
+      <node ref="K_F4" pin="2"/>
+    </net>
+    <net code="14" name="Net-(D_F6-Pad2)">
+      <node ref="K_F5" pin="2"/>
+      <node ref="D_F6" pin="2"/>
+    </net>
+    <net code="15" name="Net-(D_10-Pad2)">
+      <node ref="K_SPACE1" pin="2"/>
+      <node ref="D_10" pin="2"/>
+    </net>
+    <net code="16" name="Net-(D_F3-Pad2)">
+      <node ref="K_F3" pin="2"/>
+      <node ref="D_F3" pin="2"/>
+    </net>
+    <net code="17" name="Z">
+      <node ref="J2" pin="2"/>
+      <node ref="RT1" pin="1"/>
+      <node ref="J1" pin="6"/>
+      <node ref="IC2" pin="6"/>
+    </net>
+    <net code="18" name="GND">
+      <node ref="J1" pin="7"/>
+      <node ref="IC1" pin="23"/>
+      <node ref="J1" pin="8"/>
+      <node ref="J2" pin="8"/>
+      <node ref="J2" pin="7"/>
+      <node ref="IC1" pin="3"/>
+      <node ref="IC1" pin="4"/>
+      <node ref="IC2" pin="4"/>
+      <node ref="SW_RESET1" pin="1"/>
+    </net>
+    <net code="19" name="A">
+      <node ref="IC2" pin="8"/>
+      <node ref="J2" pin="3"/>
+      <node ref="J1" pin="1"/>
+    </net>
+    <net code="20" name="B">
+      <node ref="J2" pin="6"/>
+      <node ref="IC2" pin="7"/>
+      <node ref="J1" pin="2"/>
+    </net>
+    <net code="21" name="Y">
+      <node ref="J2" pin="1"/>
+      <node ref="IC2" pin="5"/>
+      <node ref="J1" pin="3"/>
+      <node ref="RT1" pin="2"/>
+    </net>
+    <net code="22" name="VUSB">
+      <node ref="J2" pin="4"/>
+      <node ref="J2" pin="5"/>
+      <node ref="IC2" pin="1"/>
+      <node ref="J1" pin="4"/>
+      <node ref="J1" pin="5"/>
+      <node ref="IC1" pin="24"/>
+    </net>
+    <net code="23" name="TX+">
+      <node ref="IC2" pin="3"/>
+      <node ref="IC1" pin="1"/>
+    </net>
+    <net code="24" name="RX-">
+      <node ref="IC2" pin="2"/>
+      <node ref="IC1" pin="2"/>
+    </net>
+    <net code="25" name="row2">
+      <node ref="D_G1" pin="1"/>
+      <node ref="D_8" pin="1"/>
+      <node ref="D_F5" pin="1"/>
+      <node ref="IC1" pin="15"/>
+      <node ref="D_D1" pin="1"/>
+      <node ref="D_S1" pin="1"/>
+      <node ref="D_ENTER1" pin="1"/>
+      <node ref="D_CONTROL1" pin="1"/>
+      <node ref="D_A1" pin="1"/>
+    </net>
+    <net code="26" name="row3">
+      <node ref="D_Z1" pin="1"/>
+      <node ref="D_B1" pin="1"/>
+      <node ref="D_9" pin="1"/>
+      <node ref="D_X1" pin="1"/>
+      <node ref="D_V1" pin="1"/>
+      <node ref="D_C1" pin="1"/>
+      <node ref="D_SHIFT1" pin="1"/>
+      <node ref="D1" pin="1"/>
+      <node ref="IC1" pin="11"/>
+    </net>
+    <net code="27" name="row4">
+      <node ref="D_ALT1" pin="1"/>
+      <node ref="D_META1" pin="1"/>
+      <node ref="IC1" pin="12"/>
+      <node ref="D_MENU1" pin="1"/>
+      <node ref="D_10" pin="1"/>
+      <node ref="D2" pin="1"/>
+      <node ref="D_QB1" pin="1"/>
+      <node ref="D_FN1" pin="1"/>
+      <node ref="D_TF1" pin="1"/>
+    </net>
+    <net code="28" name="row5">
+      <node ref="IC1" pin="13"/>
+      <node ref="D3" pin="1"/>
+      <node ref="D4" pin="1"/>
+      <node ref="D_F6" pin="1"/>
+      <node ref="D_F2" pin="1"/>
+      <node ref="D_F1" pin="1"/>
+      <node ref="D_F7" pin="1"/>
+      <node ref="D_F3" pin="1"/>
+      <node ref="D_F4" pin="1"/>
+    </net>
+    <net code="29" name="SCL">
+      <node ref="IC1" pin="6"/>
+    </net>
+    <net code="30" name="SDA">
+      <node ref="IC1" pin="5"/>
+    </net>
+    <net code="31" name="reset">
+      <node ref="SW_RESET1" pin="2"/>
+      <node ref="IC1" pin="22"/>
+    </net>
+    <net code="32" name="row0">
+      <node ref="D_BS1" pin="1"/>
+      <node ref="D_1" pin="1"/>
+      <node ref="D_6" pin="1"/>
+      <node ref="D_3" pin="1"/>
+      <node ref="D_ESC1" pin="1"/>
+      <node ref="D_5" pin="1"/>
+      <node ref="IC1" pin="16"/>
+      <node ref="D_2" pin="1"/>
+      <node ref="D_4" pin="1"/>
+    </net>
+    <net code="33" name="col5">
+      <node ref="K_MENU1" pin="1"/>
+      <node ref="IC1" pin="19"/>
+      <node ref="K_T1" pin="1"/>
+      <node ref="K_B1" pin="1"/>
+      <node ref="K_F6" pin="1"/>
+      <node ref="K_5" pin="1"/>
+      <node ref="K_G1" pin="1"/>
+    </net>
+    <net code="34" name="col6">
+      <node ref="K_SPACE1" pin="1"/>
+      <node ref="K_8" pin="1"/>
+      <node ref="IC1" pin="18"/>
+      <node ref="R4" pin="1"/>
+      <node ref="K_9" pin="1"/>
+      <node ref="K_6" pin="1"/>
+      <node ref="K_7" pin="1"/>
+    </net>
+    <net code="35" name="col7">
+      <node ref="IC1" pin="17"/>
+      <node ref="K_BS1" pin="1"/>
+      <node ref="R3" pin="1"/>
+      <node ref="R2" pin="1"/>
+      <node ref="K_ENTER1" pin="1"/>
+      <node ref="K_DEL1" pin="1"/>
+      <node ref="R1" pin="1"/>
+    </net>
+    <net code="36" name="col1">
+      <node ref="K_1" pin="1"/>
+      <node ref="K_Q1" pin="1"/>
+      <node ref="K_Z1" pin="1"/>
+      <node ref="K_A1" pin="1"/>
+      <node ref="IC1" pin="8"/>
+      <node ref="K_ALT1" pin="1"/>
+      <node ref="K_F2" pin="1"/>
+    </net>
+    <net code="37" name="row1">
+      <node ref="D_E1" pin="1"/>
+      <node ref="IC1" pin="14"/>
+      <node ref="D_7" pin="1"/>
+      <node ref="D_TAB1" pin="1"/>
+      <node ref="D_W1" pin="1"/>
+      <node ref="D_R1" pin="1"/>
+      <node ref="D_T1" pin="1"/>
+      <node ref="D_DEL1" pin="1"/>
+      <node ref="D_Q1" pin="1"/>
+    </net>
+    <net code="38" name="col0">
+      <node ref="K_ESC1" pin="1"/>
+      <node ref="K_F1" pin="1"/>
+      <node ref="K_TAB1" pin="1"/>
+      <node ref="K_FN1" pin="1"/>
+      <node ref="K_CONTROL1" pin="1"/>
+      <node ref="K_SHIFT1" pin="1"/>
+      <node ref="IC1" pin="7"/>
+    </net>
+    <net code="39" name="col2">
+      <node ref="IC1" pin="9"/>
+      <node ref="K_S1" pin="1"/>
+      <node ref="K_X1" pin="1"/>
+      <node ref="K_2" pin="1"/>
+      <node ref="K_META1" pin="1"/>
+      <node ref="K_F3" pin="1"/>
+      <node ref="K_W1" pin="1"/>
+    </net>
+    <net code="40" name="col3">
+      <node ref="K_TF1" pin="1"/>
+      <node ref="K_D1" pin="1"/>
+      <node ref="K_C1" pin="1"/>
+      <node ref="K_F4" pin="1"/>
+      <node ref="K_3" pin="1"/>
+      <node ref="K_E1" pin="1"/>
+      <node ref="IC1" pin="10"/>
+    </net>
+    <net code="41" name="VCC">
+      <node ref="IC1" pin="21"/>
+    </net>
+    <net code="42" name="Net-(D_Q1-Pad2)">
+      <node ref="D_Q1" pin="2"/>
+      <node ref="K_Q1" pin="2"/>
+    </net>
+    <net code="43" name="Net-(D_W1-Pad2)">
+      <node ref="K_W1" pin="2"/>
+      <node ref="D_W1" pin="2"/>
+    </net>
+    <net code="44" name="Net-(D_E1-Pad2)">
+      <node ref="K_E1" pin="2"/>
+      <node ref="D_E1" pin="2"/>
+    </net>
+    <net code="45" name="Net-(D_BS1-Pad2)">
+      <node ref="D_BS1" pin="2"/>
+      <node ref="K_BS1" pin="2"/>
+    </net>
+    <net code="46" name="Net-(D_TAB1-Pad2)">
+      <node ref="K_TAB1" pin="2"/>
+      <node ref="D_TAB1" pin="2"/>
+    </net>
+    <net code="47" name="Net-(D_7-Pad2)">
+      <node ref="K_7" pin="2"/>
+      <node ref="D_7" pin="2"/>
+    </net>
+    <net code="48" name="Net-(D_DEL1-Pad2)">
+      <node ref="D_DEL1" pin="2"/>
+      <node ref="K_DEL1" pin="2"/>
+    </net>
+    <net code="49" name="Net-(D_R1-Pad2)">
+      <node ref="K_R1" pin="2"/>
+      <node ref="D_R1" pin="2"/>
+    </net>
+    <net code="50" name="Net-(D_T1-Pad2)">
+      <node ref="K_T1" pin="2"/>
+      <node ref="D_T1" pin="2"/>
+    </net>
+    <net code="51" name="Net-(D_2-Pad2)">
+      <node ref="K_2" pin="2"/>
+      <node ref="D_2" pin="2"/>
+    </net>
+    <net code="52" name="Net-(D_3-Pad2)">
+      <node ref="K_3" pin="2"/>
+      <node ref="D_3" pin="2"/>
+    </net>
+    <net code="53" name="Net-(D_ESC1-Pad2)">
+      <node ref="K_ESC1" pin="2"/>
+      <node ref="D_ESC1" pin="2"/>
+    </net>
+    <net code="54" name="Net-(D_1-Pad2)">
+      <node ref="D_1" pin="2"/>
+      <node ref="K_1" pin="2"/>
+    </net>
+    <net code="55" name="Net-(D_5-Pad2)">
+      <node ref="K_5" pin="2"/>
+      <node ref="D_5" pin="2"/>
+    </net>
+    <net code="56" name="Net-(D_6-Pad2)">
+      <node ref="K_6" pin="2"/>
+      <node ref="D_6" pin="2"/>
+    </net>
+    <net code="57" name="Net-(D_4-Pad2)">
+      <node ref="D_4" pin="2"/>
+      <node ref="K_4" pin="2"/>
+    </net>
+    <net code="58" name="Net-(D_C1-Pad2)">
+      <node ref="D_C1" pin="2"/>
+      <node ref="K_C1" pin="2"/>
+    </net>
+    <net code="59" name="Net-(D_V1-Pad2)">
+      <node ref="K_V1" pin="2"/>
+      <node ref="D_V1" pin="2"/>
+    </net>
+    <net code="60" name="Net-(D_B1-Pad2)">
+      <node ref="K_B1" pin="2"/>
+      <node ref="D_B1" pin="2"/>
+    </net>
+    <net code="61" name="Net-(D_X1-Pad2)">
+      <node ref="K_X1" pin="2"/>
+      <node ref="D_X1" pin="2"/>
+    </net>
+    <net code="62" name="Net-(D_Z1-Pad2)">
+      <node ref="D_Z1" pin="2"/>
+      <node ref="K_Z1" pin="2"/>
+    </net>
+    <net code="63" name="Net-(D_FN1-Pad2)">
+      <node ref="K_FN1" pin="2"/>
+      <node ref="D_FN1" pin="2"/>
+    </net>
+    <net code="64" name="Net-(D_ALT1-Pad2)">
+      <node ref="K_ALT1" pin="2"/>
+      <node ref="D_ALT1" pin="2"/>
+    </net>
+    <net code="65" name="Net-(D_9-Pad2)">
+      <node ref="K_9" pin="2"/>
+      <node ref="D_9" pin="2"/>
+    </net>
+    <net code="66" name="Net-(D_S1-Pad2)">
+      <node ref="D_S1" pin="2"/>
+      <node ref="K_S1" pin="2"/>
+    </net>
+    <net code="67" name="Net-(D_D1-Pad2)">
+      <node ref="D_D1" pin="2"/>
+      <node ref="K_D1" pin="2"/>
+    </net>
+    <net code="68" name="Net-(D_F5-Pad2)">
+      <node ref="K_F0" pin="2"/>
+      <node ref="D_F5" pin="2"/>
+    </net>
+    <net code="69" name="Net-(D_CONTROL1-Pad2)">
+      <node ref="K_CONTROL1" pin="2"/>
+      <node ref="D_CONTROL1" pin="2"/>
+    </net>
+    <net code="70" name="Net-(D_A1-Pad2)">
+      <node ref="K_A1" pin="2"/>
+      <node ref="D_A1" pin="2"/>
+    </net>
+    <net code="71" name="Net-(D_8-Pad2)">
+      <node ref="D_8" pin="2"/>
+      <node ref="K_8" pin="2"/>
+    </net>
+    <net code="72" name="Net-(D_ENTER1-Pad2)">
+      <node ref="D_ENTER1" pin="2"/>
+      <node ref="K_ENTER1" pin="2"/>
+    </net>
+    <net code="73" name="Net-(D_SHIFT1-Pad2)">
+      <node ref="K_SHIFT1" pin="2"/>
+      <node ref="D_SHIFT1" pin="2"/>
+    </net>
+    <net code="74" name="Net-(D_G1-Pad2)">
+      <node ref="D_G1" pin="2"/>
+      <node ref="K_G1" pin="2"/>
+    </net>
+  </nets>
+</export>
