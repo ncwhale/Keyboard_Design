@@ -2,11 +2,13 @@
 
 My keyboard designs for myself. Free to use it in your project.
 
-# Splite Keyboard version 2
+# Splite Keyboard version 3
 
-![Splite Keyboard v3 designed layout](Splite-Keyboard-v3/Keyboar-layout.png)
+![Splite Keyboard v3 designed layout](Splite-Keyboard-v3/Keyboard-layout.png)
 
-This is my current design. Layout updated for more suitable left/right hand usage.
+This is my current design. 
+
+Layout updated for more suitable left/right hand usage.
 
 Details in [V3 README.md](Splite-Keyboard-v3/README.md)
 
@@ -14,6 +16,7 @@ Details in [V3 README.md](Splite-Keyboard-v3/README.md)
 
 ![Splite Keyboard v2 designed layout](Splite-Keyboard-v2/Keyboar-layout.png)
 
+    Sorry for the typo of filename...but that's why I need to build new keyboard (this project): my HHKB did not work perfect when weather changed frequently, and key missing happened a lot.
 
 # Folder layout
 
