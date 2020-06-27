@@ -2,6 +2,8 @@
 
 My keyboard designs. Free to use it in your project.
 
+[中文版本](README.zh_CN.md)
+
 # Splite Keyboard version 3
 
 ![Splite Keyboard v3 designed layout](Splite-Keyboard-v3/Keyboard-layout.png)
