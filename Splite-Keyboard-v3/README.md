@@ -8,6 +8,16 @@
 
 ![Splite Keyboard v3 complete](Keyboard-complete.jpeg)
 
+## Parts list
+
+* MX compatible switchs * 84 (42 each hand)
+* diode * 84
+* Sparkfun Micro Pro * 2
+* TI SN75179BDRG4 * 2 (RS422/SMD)
+* MJ88-B011-HLSV6-P * 2 (RJ45/SMD)
+* Ethernet Cable * 1 (Cat5e or up)
+* IIC OLED Panel * 2 (optional)
+
 ## PCB Preview
 
 PCB designed symmetrical.
