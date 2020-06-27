@@ -1,6 +1,6 @@
-# Keyboard_Design
+# Keyboard Designs
 
-My keyboard designs for myself. Free to use it in your project.
+My keyboard designs. Free to use it in your project.
 
 # Splite Keyboard version 3
 
